@@ -12,7 +12,7 @@
 
 支持最新PP-OCRv5_mobile/PP-OCRv5_server模型，向下兼容V4/V3模型
 
-Paddle推理库版本请移步：[PaddleOCRCore/PaddleOCRApi](https://github.com/PaddleOCRCore/PaddleOCRApi) |
+Paddle推理库版本请移步：[PaddleOCRCore/PaddleOCRApi](https://github.com/PaddleOCRCore/PaddleOCRApi)
 
 ## 二、运行环境
 项目运行环境为VS2022+.net8.0：
@@ -24,7 +24,7 @@ WebApi部署后可供前端调用。
 
 ### WinFormDemo预览：
 
-<img src="./PaddleOCROnnxSDK/OCRRuntime/ocrDemo.jpg" width="800px;" />
+<img src="./PaddleOCROnnxSDK/OCRRuntime/ocrDemo.png" width="800px;" />
 
 依赖库列表参考：
 
